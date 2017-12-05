@@ -1,0 +1,25 @@
+[0m[[0mdebug[0m] [0mExecuting Native docker build --force-rm -t scalaplayskeleton:1.0 .[0m
+[0m[[0mdebug[0m] [0mWorking directory /Users/ike.lee/Documents/scala-play-skeleton/target/docker/stage[0m
+[0m[[0minfo[0m] [0mSending build context to Docker daemon  50.16MB[0m
+[0m[[0minfo[0m] [0mStep 1/6 : FROM openjdk:latest[0m
+[0m[[0minfo[0m] [0m ---> 377371113dab[0m
+[0m[[0minfo[0m] [0mStep 2/6 : WORKDIR /opt/docker[0m
+[0m[[0minfo[0m] [0m ---> Using cache[0m
+[0m[[0minfo[0m] [0m ---> f12322b9a37e[0m
+[0m[[0minfo[0m] [0mStep 3/6 : ADD --chown=daemon:daemon opt /opt[0m
+[0m[[0minfo[0m] [0m ---> d993a91e1706[0m
+[0m[[0minfo[0m] [0mStep 4/6 : USER daemon[0m
+[0m[[0minfo[0m] [0m ---> Running in f01852379d51[0m
+[0m[[0minfo[0m] [0m ---> 8d914a0605a1[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container f01852379d51[0m
+[0m[[0minfo[0m] [0mStep 5/6 : ENTRYPOINT bin/scalaplayskeleton[0m
+[0m[[0minfo[0m] [0m ---> Running in 3cb96456b134[0m
+[0m[[0minfo[0m] [0m ---> 4a1e0fb90a5b[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container 3cb96456b134[0m
+[0m[[0minfo[0m] [0mStep 6/6 : CMD[0m
+[0m[[0minfo[0m] [0m ---> Running in 46b0a2f2571f[0m
+[0m[[0minfo[0m] [0m ---> c93e0b876953[0m
+[0m[[0minfo[0m] [0mRemoving intermediate container 46b0a2f2571f[0m
+[0m[[0minfo[0m] [0mSuccessfully built c93e0b876953[0m
+[0m[[0minfo[0m] [0mSuccessfully tagged scalaplayskeleton:1.0[0m
+[0m[[0minfo[0m] [0mBuilt image scalaplayskeleton:1.0[0m

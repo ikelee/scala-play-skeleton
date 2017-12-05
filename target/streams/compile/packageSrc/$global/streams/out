@@ -1,0 +1,25 @@
+[0m[[0minfo[0m] [0mPackaging /Users/ike.lee/Documents/scala-play-skeleton/target/scala-2.12/scalaplayskeleton_2.12-1.0-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	models/Events.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/ike.lee/Documents/scala-play-skeleton/app/models/Events.scala[0m
+[0m[[0mdebug[0m] [0m	logback.xml[0m
+[0m[[0mdebug[0m] [0m	  /Users/ike.lee/Documents/scala-play-skeleton/conf/logback.xml[0m
+[0m[[0mdebug[0m] [0m	models/RetrievalEventsResponse.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/ike.lee/Documents/scala-play-skeleton/app/models/RetrievalEventsResponse.scala[0m
+[0m[[0mdebug[0m] [0m	services/InternalServicesError.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/ike.lee/Documents/scala-play-skeleton/app/services/InternalServicesError.scala[0m
+[0m[[0mdebug[0m] [0m	controllers/AsyncController.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/ike.lee/Documents/scala-play-skeleton/app/controllers/AsyncController.scala[0m
+[0m[[0mdebug[0m] [0m	services/EventServices.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/ike.lee/Documents/scala-play-skeleton/app/services/EventServices.scala[0m
+[0m[[0mdebug[0m] [0m	controllers/HomeController.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/ike.lee/Documents/scala-play-skeleton/app/controllers/HomeController.scala[0m
+[0m[[0mdebug[0m] [0m	controllers/ControllerError.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/ike.lee/Documents/scala-play-skeleton/app/controllers/ControllerError.scala[0m
+[0m[[0mdebug[0m] [0m	routes[0m
+[0m[[0mdebug[0m] [0m	  /Users/ike.lee/Documents/scala-play-skeleton/conf/routes[0m
+[0m[[0mdebug[0m] [0m	application.conf[0m
+[0m[[0mdebug[0m] [0m	  /Users/ike.lee/Documents/scala-play-skeleton/conf/application.conf[0m
+[0m[[0mdebug[0m] [0m	filters/ExampleFilter.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/ike.lee/Documents/scala-play-skeleton/app/filters/ExampleFilter.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
